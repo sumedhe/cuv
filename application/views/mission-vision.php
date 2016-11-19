@@ -1,8 +1,10 @@
 <!-- Mission and Vision section -->
+<<<<<<< HEAD
 <br><br>
 <div id="mission-vision" class="container-fluid bg-grey text-center" >
   <div class="col-md-6 wow fadeInRight animated" style=
   "visibility: visible; animation-name: fadeInRight;">
+
   <img alt src="public/img/Table-hands.png" class="so-widget-image"
   style="max-width:100%; height:auto; display:block">
  </div>
