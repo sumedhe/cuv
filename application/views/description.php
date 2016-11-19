@@ -1,5 +1,5 @@
 <!-- Desctiption section -->
-<div id="description" class="container" >
+<div id="description" class="container-fluid" >
 
 
   <div class="row">
