@@ -1,29 +1,68 @@
 <!-- Committee section -->
 <!-- Name, Photo, Designation and Email address of each committee member -->
 <!-- Container (Portfolio Section) -->
-<div id="committee" class="container-fluid text-center bg-grey">
-  <h2>Committee</h2><br>
-  <h4>The Workforce</h4>
-  <div class="row text-center slideanim">
-    <div class="col-sm-4">
-      <div class="thumbnail">
-        <img src="paris.jpg" alt="Paris" width="400" height="300">
-        <p><strong>Paris</strong></p>
-        <p>Yes, we built Paris</p>
-      </div>
+
+
+  <div id="committee" class="container-fluid bg-grey text-center">
+  <h2>COMMITTEE</h2>
+  <h4>Official Committee for 2015/16</h4>
+  <br>
+  <div class="row slideanim">
+  	<div class="col-sm-3"></div>
+    <div class="col-sm-3">
+      <img src="public/img/anon.jpg" height="50%" width="50%">
+      <h4>position</h4>
+      <p class="names">name</p>
+      <p>email</p>
+      
     </div>
-    <div class="col-sm-4">
-      <div class="thumbnail">
-        <img src="newyork.jpg" alt="New York" width="400" height="300">
-        <p><strong>New York</strong></p>
-        <p>We built New York</p>
-      </div>
+    <div class="col-sm-3">
+      <img src="public/img/anon.jpg" height="50%" width="50%">
+      <h4>position</h4>
+      <p class="names">name</p>
+      <p>email</p>
+      
     </div>
-    <div class="col-sm-4">
-      <div class="thumbnail">
-        <img src="sanfran.jpg" alt="San Francisco" width="400" height="300">
-        <p><strong>San Francisco</strong></p>
-        <p>Yes, San Fran is ours</p>
-      </div>
+    <div class="col-sm-3"></div>
+    
+  </div>
+  <br><br>
+  <div class="row slideanim">
+    <div class="col-sm-3">
+      <img src="public/img/anon.jpg" height="50%" width="50%">
+      <h4>position</h4>
+      <p class="names">name</p>
+      <p>email</p>
+      
     </div>
-  </div><br>
+    <div class="col-sm-3">
+      <img src="public/img/anon.jpg" height="50%" width="50%">
+      <h4>position</h4>
+      <p class="names">name</p>
+      <p>email</p>
+      
+    </div>
+    <div class="col-sm-3">
+<img src="public/img/anon.jpg" height="50%" width="50%">
+      <h4>position</h4>
+      <p class="names">name</p>
+      <p>email</p>
+      
+    </div>
+    <div class="col-sm-3">
+      <img src="public/img/anon.jpg" height="50%" width="50%">
+      <h4>position</h4>
+      <p class="names">name</p>
+      <p>email</p>
+      <!--p><span class="glyphicon glyphicon-phone"></span>Phone: 071 1212121</p-->
+    </div>
+  </div>
+  <br><br>
+  
+</div>
+
+  
+  
+
+
+
