@@ -1,8 +1,7 @@
 <!-- Desctiption section -->
-<div id="description" class="container-fluid" >
-
-
-  <div class="row">
+<br><br>
+<div id="description" class="container-fluid bg-grey text-center" >
+ <div class="row">
 
     <div class="col-sm-8 ">
       <hr class="section-heading-spacer">
@@ -25,3 +24,4 @@
   </div>
 
 </div>
+<br><br>
