@@ -1,59 +1,35 @@
-<div class="container">
-<!--    <div class="row">-->
-<!--        <div class="col-lg-12">-->
-            <div id="committee" class="container-fluid text-center">
-                <h2>Contact information</h2>
-            </div>
-<!--        </div>-->
-<!--    </div>-->
-    <div class="row">
-        <div class="col-lg-6">
-            <div class="row">
-                <div class="col-lg-2">
-                    Hotline :
-                </div>
-                <div class="col-lg-3">
-                    +94 7x xxxxxxx
-                </div>
-            </div>
-            <br>
-            <div class="row">
-                <div class="col-lg-2">
-                    Email :
-                </div>
-                <div class="col-lg-3">
-                    xxxx.cuv@gmail.com
-                </div>
-            </div>
+<br><br>
+<div id="mission-vision" class="container-fluid bg-grey text-center">
+    <div class="container">
+        <div id="committee" class="container-fluid text-center">
+            <h2>Contact information</h2>
         </div>
-        <div class="col-lg-6">
-            <div class="row">
-                <div class="col-lg-2">
-                    Tel :
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="row">
+                    <span class="met_color glyphicon glyphicon-tag"></span>
+                    HotLine : +94 xxx xxxxxxx
                 </div>
-                <div class="col-lg-3">
-                    <div class="row">
-                        +94 7x xxxxxxx
-                    </div>
-                    <div class="row">
-                        +94 7x xxxxxxx
-                    </div>
+                <br>
+                <div class="row">
+                    <span class="met_color glyphicon glyphicon-envelope"></span>
+                    E-Mail : xxxx.cuv@gmail.com
                 </div>
             </div>
-            <br>
-            <div class="row">
-                <div class="col-lg-2">
-                    Address :
+            <div class="col-lg-6">
+                <div class="row">
+                    <span class="met_color glyphicon glyphicon-earphone"> Tel</span>
+                    <div>: +94 912 248 460</div>
+                    <div>: +94 711 303 303</div>
                 </div>
-                <div class="col-lg-6">
-                    <address>
-                        <strong>University of Colombo</strong><br>
-                        35 Philip Gunawardena Mawatha<br>
-                        Colombo<br>
-                        00400
-                    </address>
+                <br>
+                <div class="row">
+                    <span class="met_color glyphicon glyphicon-map-marker"> </span>
+                    Address : University of Colombo. 35 Philip Gunawardena Mawatha, Colombo 00400
                 </div>
             </div>
         </div>
     </div>
 </div>
+<br>
+<br>
