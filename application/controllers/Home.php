@@ -4,8 +4,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 class Home extends CI_Controller {
 	public function index()
 	{
-        $this->load->view('navbar'); // Header part of HTML file (loading bootstrap)
         $this->load->view('header'); // Header part of HTML file (loading bootstrap)
+        $this->load->view('navbar');
         $this->load->view('banner');
         $this->load->view('description');
         $this->load->view('mission-vision');
