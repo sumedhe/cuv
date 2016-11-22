@@ -8,6 +8,10 @@
              style="max-width:100%; height:auto; display:block">
     </div>
     <div class="col-md-6">
+      <hr class="section-heading-spacer">
+      <div class="clearfix">
+
+      </div>
         <div class="the-headline">
             <h1>
                 Vision
