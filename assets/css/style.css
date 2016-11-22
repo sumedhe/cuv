@@ -107,6 +107,9 @@
     border-color: transparent;
     color: #fff !important;
 }
+.pp{
+    font-size: 20px;
+}
 footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
