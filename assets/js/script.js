@@ -20,4 +20,10 @@ $(document).ready(function(){
       });
     } // End if
   });
-})
+});
+
+$('navbar').affix({
+  offset: {
+    top: function() { return 500;  } // ** SHOULD RETURN THE SIZE OF ABOVE ELEMENT
+  }
+});

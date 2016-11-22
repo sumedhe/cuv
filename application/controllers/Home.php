@@ -5,8 +5,8 @@ class Home extends CI_Controller {
 	public function index()
 	{
         $this->load->view('header'); // Header part of HTML file (loading bootstrap)
-        $this->load->view('navbar');
         $this->load->view('banner');
+        $this->load->view('navbar');
         $this->load->view('description');
         $this->load->view('mission-vision');
         $this->load->view('committee');
