@@ -1,6 +1,5 @@
 <!-- Desctiption section -->
-<br><br>
-<div id="description" class="container-fluid bg-grey text-center" >
+<div id="description" class="container-fluid text-center" >
  <div class="row">
 
     <div class="col-sm-8 ">

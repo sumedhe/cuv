@@ -1,4 +1,3 @@
-<br><br>
 <div id="contact-us" class="container-fluid bg-grey text-center">
     <div class="container">
         <div id="committee" class="container-fluid text-center">
@@ -30,6 +29,5 @@
             </div>
         </div>
     </div>
+    <br> <br>
 </div>
-<br>
-<br>

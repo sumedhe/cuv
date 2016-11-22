@@ -1,7 +1,5 @@
-<br>
-<br>
 <div id="mission-vision" class="container-fluid bg-grey text-center">
-    <div class="col-md-6 wow fadeInRight animated" style=
+    <div class=" container-fluid col-md-6 wow fadeInRight animated" style=
     "visibility: visible; animation-name: fadeInRight;">
 
         <img alt src="public/img/Table-hands.png" class="so-widget-image"
@@ -34,5 +32,3 @@
         </div>
     </div>
 </div>
-<br>
-<br>
