@@ -1,4 +1,4 @@
-<div id="contact-us" class="container-fluid bg-grey text-center">
+<div id="contact-us" class="container-fluid text-center bg-grey">
     <div class="container">
         <div id="committee" class="container-fluid text-center">
             <h2>Contact information</h2>

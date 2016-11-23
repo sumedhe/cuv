@@ -140,3 +140,10 @@ footer .glyphicon {
     margin: 25px 0;
   }
 }
+.col-xs-6 {
+    padding: 0;
+}
+
+.col-xs-6 a {
+    margin-bottom: 0;
+}
