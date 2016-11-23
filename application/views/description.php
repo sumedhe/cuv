@@ -3,10 +3,9 @@
  <div class="row">
 
     <div class="col-sm-8 ">
-      <hr class="section-heading-spacer">
-      <div class="clearfix">
-
-      </div>
+      <br>
+      <br>
+      <br>
       <h2 class="section-heading">
         Description
       </h2>
