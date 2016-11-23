@@ -1,9 +1,17 @@
 /* Stylesheet of the main page */
-.center {
-     float: none;
-     margin-left: auto;
-     margin-right: auto;
+
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
 }
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+
 .jumbotron {
     background-color: #010101;
     color: #fff;
@@ -120,6 +128,10 @@
     border-color: transparent;
     color: #fff !important;
 }
+.pp{
+    font-size: 20px;
+}
+
 .affix {
     top:0;
     width: 100%;
@@ -145,10 +157,10 @@ footer .glyphicon {
     margin: 25px 0;
   }
 }
-/*.col-xs-6 {
+.col-xs-6 {
     padding: 0;
 }
 
 .col-xs-6 a {
     margin-bottom: 0;
-}*/
+}

@@ -13,7 +13,7 @@ class Home extends CI_Controller {
         // $this->load->view('join-us');
         $this->load->view('gallery');
         $this->load->view('contact-us');
-        $this->load->view('map');
+        //$this->load->view('map');
         $this->load->view('footer'); // Footer part of the HTML file
 	}
 }
