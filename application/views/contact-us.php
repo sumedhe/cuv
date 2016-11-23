@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <br><br>
 <div id="contact-us" class="container-fluid bg-grey ">
         <h2 class="text-center">Contact Us</h2>
@@ -31,14 +30,6 @@
             <div class="col-lg-7">
                 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Funiversity.colombo%2F&tabs=timeline&width=1000&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=562525020600615" width="1200" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
             </div>
-=======
-<div id="contact-us" class="container-fluid text-center bg-grey">
-    <div class="container">
-        <div id="committee" class="container-fluid text-center">
-            <h2>Contact information</h2>
->>>>>>> origin/master
-        </div>
-        <br><br>
         <div class="row">
             <div class="col-lg-12">
             <iframe
@@ -50,8 +41,5 @@
     </div>
     <br> <br>
 </div>
-<<<<<<< HEAD
 <br>
 <br>
-=======
->>>>>>> origin/master

@@ -115,11 +115,10 @@
     border-color: transparent;
     color: #fff !important;
 }
-<<<<<<< HEAD
 .pp{
     font-size: 20px;
 }
-=======
+
 .affix {
     top:0;
     width: 100%;
@@ -134,7 +133,6 @@
    top: 50px;
 }
 
->>>>>>> origin/master
 footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;

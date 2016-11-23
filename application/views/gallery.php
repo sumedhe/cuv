@@ -1,5 +1,5 @@
-<div class="container-fluid">
-    <div class="row">
+<div class="container-fluid bg-grey">
+    <div class="container row center">
         <div class="col-lg-12 text-center">
             <h2>GALLERY</h2>
             <h4>Our works</h>
