@@ -1,49 +1,54 @@
-<div class="container-fluid bg-grey">
+<style type="text/css">
+#container {
+  width: 840px;
+  margin: 0 auto;
+}
+
+#container ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#container ul li {
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: 210px;
+  overflow: hidden;
+  
+  -webkit-transition: width .5s ease;
+  -moz-transition: width .5s ease;
+  -o-transition: width .5s ease;
+  transition: width .5s ease;
+}
+
+#container ul li img {
+  margin: 0;
+  padding: 0;
+}
+
+#container ul:hover li {
+  width: 180px;
+}
+#container ul:hover li:hover {
+  width: 300px;
+}
+</style>
+
+<div id="gallery" class="container-fluid bg-grey">
     <div class="container row center">
         <div class="col-lg-12 text-center">
             <h2>GALLERY</h2>
-            <h4>Our works</h>
+            <h4>Our works</h4>
         </div>
-
-        <div class="col-lg-3 col-md-4 col-xs-6">
-            <a class="thumbnail" href="public/img/test.jpg">
-                <img class="img-responsive" src="public/img/test.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#">
-                <img class="img-responsive" src="public/img/test.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#">
-                <img class="img-responsive" src="public/img/test.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#">
-                <img class="img-responsive" src="public/img/test.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#">
-                <img class="img-responsive" src="public/img/test.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#">
-                <img class="img-responsive" src="public/img/test.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#">
-                <img class="img-responsive" src="public/img/test.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#">
-                <img class="img-responsive" src="public/img/test.jpg" alt="">
-            </a>
-        </div>
-    </div>
+<div id="container">
+  <ul>
+    <li><img src="public/img/test.jpg"></li>
+    <li><img src="public/img/test.jpg"></li>
+    <li><img src="public/img/test.jpg"></li>
+    <li><img src="public/img/test.jpg"></li>
+  </ul>
+</div>
+</div>
 </div>
