@@ -1,4 +1,4 @@
-<div class="container-fluid bg-grey">
+<div id="gallery" class="container-fluid bg-grey">
     <div class="container row center">
         <div class="col-lg-12 text-center">
             <h2>GALLERY</h2>
