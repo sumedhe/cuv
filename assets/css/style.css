@@ -5,7 +5,7 @@
     padding: 100px 25px;
 }
 .container-fluid {
-    padding: 60px 50px;
+    padding: 0px 0px;
 }
 .bg-grey {
     background-color: #f6f6f6;
@@ -37,6 +37,14 @@
 }
 .carousel-indicators li.active {
     background-color: #4A0583;
+}
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
+.carousel-caption h1 {
+    font-size:      5em;
+    color:          white !important;
 }
 .item h4 {
     font-size: 19px;
@@ -107,9 +115,26 @@
     border-color: transparent;
     color: #fff !important;
 }
+<<<<<<< HEAD
 .pp{
     font-size: 20px;
 }
+=======
+.affix {
+    top:0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+
+.affix ~ .container-fluid {
+   position: relative;
+   top: 50px;
+}
+
+>>>>>>> origin/master
 footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
@@ -120,4 +145,11 @@ footer .glyphicon {
     text-align: center;
     margin: 25px 0;
   }
+}
+.col-xs-6 {
+    padding: 0;
+}
+
+.col-xs-6 a {
+    margin-bottom: 0;
 }

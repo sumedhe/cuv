@@ -12,4 +12,4 @@
     <link href="assets/css/style.css" rel="stylesheet">
 
   </head>
-<body id="home" data-spy="scroll" data-target=".navbar" data-offset="60">
+<body id="home" data-spy="scroll" data-target=".navbar" data-offset="50">
