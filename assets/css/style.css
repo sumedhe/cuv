@@ -2,11 +2,10 @@
 .main-text h1{
     position: absolute;
     font-size: 4em;
-    text-shadow: 1px 1px 2px #000000;
+    text-shadow: 1px 1px 2px #666;
     width: 96%;
     color: #FFF;
 }
-
 .jumbotron {
     background-color: #010101;
     color: #fff;
