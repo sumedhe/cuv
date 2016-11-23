@@ -1,4 +1,9 @@
 /* Stylesheet of the main page */
+.center {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
 .jumbotron {
     background-color: #4A0583;
     color: #fff;
@@ -140,10 +145,10 @@ footer .glyphicon {
     margin: 25px 0;
   }
 }
-.col-xs-6 {
+/*.col-xs-6 {
     padding: 0;
 }
 
 .col-xs-6 a {
     margin-bottom: 0;
-}
+}*/

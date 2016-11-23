@@ -1,7 +1,7 @@
-<div id="contact-us" class="container-fluid text-center bg-grey">
+<div id="contact-us" class="container-fluid text-center">
     <div class="container">
         <div id="committee" class="container-fluid text-center">
-            <h2>Contact information</h2>
+            <h2>Contact us</h2>
         </div>
         <div class="row">
             <div class="col-lg-6">

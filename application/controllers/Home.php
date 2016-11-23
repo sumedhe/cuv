@@ -10,7 +10,7 @@ class Home extends CI_Controller {
         $this->load->view('description');
         $this->load->view('mission-vision');
         $this->load->view('committee');
-        $this->load->view('join-us');
+        // $this->load->view('join-us');
         $this->load->view('gallery');
         $this->load->view('contact-us');
         $this->load->view('map');
