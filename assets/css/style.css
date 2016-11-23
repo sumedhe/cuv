@@ -5,7 +5,7 @@
      margin-right: auto;
 }
 .jumbotron {
-    background-color: #4A0583;
+    background-color: #010101;
     color: #fff;
     padding: 100px 25px;
 }
@@ -16,11 +16,11 @@
     background-color: #f6f6f6;
 }
 .logo-small {
-    color: #4A0583;
+    color: #010101;
     font-size: 50px;
 }
 .logo {
-    color: #4A0583;
+    color: #010101;
     font-size: 200px;
 }
 .thumbnail {
@@ -35,13 +35,13 @@
 }
 .carousel-control.right, .carousel-control.left {
     background-image: none;
-    color: #4A0583;
+    color: #010101;
 }
 .carousel-indicators li {
-    border-color: #4A0583;
+    border-color: #010101;
 }
 .carousel-indicators li.active {
-    background-color: #4A0583;
+    background-color: #010101;
 }
 .carousel-caption {
     top: 0;
@@ -62,7 +62,7 @@
     font-style: normal;
 }
 .panel {
-    border: 1px solid #4A0583;
+    border: 1px solid #010101;
     border-radius:0 !important;
     transition: box-shadow 0.5s;
 }
@@ -70,13 +70,13 @@
     box-shadow: 5px 0px 40px rgba(0,0,0, .2);
 }
 .panel-footer .btn:hover {
-    border: 1px solid #4A0583;
+    border: 1px solid #010101;
     background-color: #fff !important;
-    color: #4A0583;
+    color: #010101;
 }
 .panel-heading {
     color: #fff !important;
-    background-color: #4A0583 !important;
+    background-color: #010101 !important;
     padding: 25px;
     border-bottom: 1px solid transparent;
     border-top-left-radius: 0px;
@@ -96,12 +96,12 @@
 }
 .panel-footer .btn {
     margin: 15px 0;
-    background-color: #4A0583;
+    background-color: #010101;
     color: #fff;
 }
 .navbar {
     margin-bottom: 0;
-    background-color: #4A0583;
+    background-color: #010101;
     z-index: 9999;
     border: 0;
     font-size: 12px !important;
@@ -113,7 +113,7 @@
     color: #fff !important;
 }
 .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: #4A0583 !important;
+    color: #010101 !important;
     background-color: #fff !important;
 }
 .navbar-default .navbar-toggle {
@@ -137,7 +137,7 @@
 footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
-    color: #4A0583;
+    color: #010101;
 }
 @media screen and (max-width: 768px) {
   .col-sm-4 {
