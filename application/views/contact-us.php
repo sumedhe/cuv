@@ -1,7 +1,8 @@
-<br><br>
-<div id="mission-vision" class="container-fluid bg-grey text-center">
+<br>
+<br>
+<div id="contact-us" class="container-fluid bg-grey text-center">
     <div class="container">
-        <div id="committee" class="container-fluid text-center">
+        <div id="contact-information" class="container-fluid text-center">
             <h2>Contact information</h2>
         </div>
         <div class="row">
