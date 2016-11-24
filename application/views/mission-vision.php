@@ -1,13 +1,15 @@
-<br>
-<br>
 <div id="mission-vision" class="container-fluid bg-grey text-center">
-    <div class="col-md-6 wow fadeInRight animated" style=
+    <div class=" container-fluid col-md-6 wow fadeInRight animated" style=
     "visibility: visible; animation-name: fadeInRight;">
 
         <img alt src="public/img/Table-hands.png" class="so-widget-image"
              style="max-width:100%; height:auto; display:block">
     </div>
     <div class="col-md-6">
+    <br>
+    <br>
+    <br>
+    <br>
         <div class="the-headline">
             <h1>
                 Vision
@@ -30,5 +32,3 @@
         </div>
     </div>
 </div>
-<br>
-<br>

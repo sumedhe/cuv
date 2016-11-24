@@ -20,4 +20,22 @@ $(document).ready(function(){
       });
     } // End if
   });
-})
+});
+
+$('navbar').affix({
+  offset: {
+    top: function() { return 500;  } // ** SHOULD RETURN THE SIZE OF ABOVE ELEMENT
+  }
+});
+
+
+var myVar;
+
+function myFunction() {
+    myVar = setTimeout(showPage, 200);
+}
+
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("myDiv").style.display = "block";
+}

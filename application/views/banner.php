@@ -11,15 +11,15 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="public/img/banner1.jpg" alt="1" width="100%" height="75%">
+        <img src="public/img/test.jpg" alt="1" width="100%" height="100%">
       </div>
       <div class="item">
-        <img src="public/img/banner1.jpg" alt="2" width="100%" height="75%">
+        <img src="public/img/test.jpg" alt="2" width="100%" height="100%">
       </div>
       <div class="item">
-        <img src="public/img/banner1.jpg" alt="3" width="100%" height="75%">
+        <img src="public/img/test.jpg" alt="3" width="100%" height="100%">
       </div>
-      
+
     </div>
 
     <!-- Left and right controls -->
@@ -33,4 +33,10 @@
     </a>
   </div>
   </div>
+
+  <!-- Title -->
+  <div class="main-text text-center">
+      <h1>Colombo University Volunteers</h1>
+  </div>
+
 </div>

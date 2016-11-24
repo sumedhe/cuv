@@ -1,21 +1,28 @@
 /* Stylesheet of the main page */
+.main-text h1{
+    position: absolute;
+    font-size: 4em;
+    text-shadow: 1px 1px 2px #666;
+    width: 96%;
+    color: #FFF;
+}
 .jumbotron {
-    background-color: #4A0583;
+    background-color: #010101;
     color: #fff;
     padding: 100px 25px;
 }
 .container-fluid {
-    padding: 60px 50px;
+    padding: 0px 0px;
 }
 .bg-grey {
     background-color: #f6f6f6;
 }
 .logo-small {
-    color: #4A0583;
+    color: #010101;
     font-size: 50px;
 }
 .logo {
-    color: #4A0583;
+    color: #010101;
     font-size: 200px;
 }
 .thumbnail {
@@ -30,13 +37,21 @@
 }
 .carousel-control.right, .carousel-control.left {
     background-image: none;
-    color: #4A0583;
+    color: #010101;
 }
 .carousel-indicators li {
-    border-color: #4A0583;
+    border-color: #010101;
 }
 .carousel-indicators li.active {
-    background-color: #4A0583;
+    background-color: #010101;
+}
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
+.carousel-caption h1 {
+    font-size:      5em;
+    color:          white !important;
 }
 .item h4 {
     font-size: 19px;
@@ -49,7 +64,7 @@
     font-style: normal;
 }
 .panel {
-    border: 1px solid #4A0583;
+    border: 1px solid #010101;
     border-radius:0 !important;
     transition: box-shadow 0.5s;
 }
@@ -57,13 +72,13 @@
     box-shadow: 5px 0px 40px rgba(0,0,0, .2);
 }
 .panel-footer .btn:hover {
-    border: 1px solid #4A0583;
+    border: 1px solid #010101;
     background-color: #fff !important;
-    color: #4A0583;
+    color: #010101;
 }
 .panel-heading {
     color: #fff !important;
-    background-color: #4A0583 !important;
+    background-color: #010101 !important;
     padding: 25px;
     border-bottom: 1px solid transparent;
     border-top-left-radius: 0px;
@@ -83,12 +98,12 @@
 }
 .panel-footer .btn {
     margin: 15px 0;
-    background-color: #4A0583;
+    background-color: #010101;
     color: #fff;
 }
 .navbar {
     margin-bottom: 0;
-    background-color: #4A0583;
+    background-color: #010101;
     z-index: 9999;
     border: 0;
     font-size: 12px !important;
@@ -100,21 +115,100 @@
     color: #fff !important;
 }
 .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: #4A0583 !important;
+    color: #010101 !important;
     background-color: #fff !important;
 }
 .navbar-default .navbar-toggle {
     border-color: transparent;
     color: #fff !important;
 }
+.pp{
+    font-size: 20px;
+}
+
+.affix {
+    top:0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+
+.affix ~ .container-fluid {
+   position: relative;
+   top: 50px;
+}
+
 footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
-    color: #4A0583;
+    color: #010101;
 }
 @media screen and (max-width: 768px) {
   .col-sm-4 {
     text-align: center;
     margin: 25px 0;
   }
+}
+.col-xs-6 {
+    padding: 0;
+}
+
+.col-xs-6 a {
+    margin-bottom: 0;
+}
+
+/*Loader*/
+.loader {
+  position: absolute;
+  left: 46%;
+  top: 46%;
+  z-index: 1;
+  width: 60px;
+  height: 60px;
+  animation: rotate 1.4s infinite ease-in-out, background 1.4s infinite ease-in-out alternate;
+}
+
+@keyframes rotate {
+  0% {
+    transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+  }
+  50% {
+    transform: perspective(120px) rotateX(-180deg) rotateY(0deg);
+  }
+  100% {
+    transform: perspective(120px) rotateX(-180deg) rotateY(-180deg);
+  }
+}
+@keyframes background {
+  0% {
+  background-color: #27ae60;
+  }
+  50% {
+    background-color: #9b59b6;
+  }
+  100% {
+    background-color: #c0392b;
+  }
+}
+
+/*Fade In*/
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+
+.fade-in {
+  opacity:0;  /* make things invisible upon start */
+  -webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+  -moz-animation:fadeIn ease-in 1;
+  animation:fadeIn ease-in 1;
+
+  -webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+  -moz-animation-fill-mode:forwards;
+  animation-fill-mode:forwards;
+
+  -webkit-animation-duration:1s;
+  -moz-animation-duration:1s;
+  animation-duration:1s;
 }

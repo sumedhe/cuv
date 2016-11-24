@@ -12,4 +12,9 @@
     <link href="assets/css/style.css" rel="stylesheet">
 
   </head>
-<body id="home" data-spy="scroll" data-target=".navbar" data-offset="60">
+<body id="body" data-spy="scroll" data-target=".navbar" data-offset="50" onload="myFunction()" style="margin:0;">
+
+    <div id="loader" class="loader"></div>
+    <!-- <img class="se-pre-con" src="public/img/Preloader.gif" alt="" /> -->
+
+    <div style="display:none;" id="myDiv" class="fade-in">
