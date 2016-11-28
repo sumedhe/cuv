@@ -30,8 +30,8 @@
         <div class="lead">
             <p>
                 <i>
-                  <b>'Mobilizing knowledge based volunteers of University of Colombo and supporting needy university and outside
-                community'</b>
+                  'Mobilizing knowledge based volunteers of University of Colombo and supporting needy university and outside
+                community'
                 </i>
             </p>
         </div>
