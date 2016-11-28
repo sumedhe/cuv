@@ -18,7 +18,7 @@
         <div class="lead">
             <p>
                 <b>Colombo University Volunteers</b> are aiming at social integrating and supporting psycho-social work among
-                university community and support sustainable social development activities of outside community through
+                university community and support sustainable social development activities of outside the community through
                 knowledge based volunteerism.
             </p>
         </div>
