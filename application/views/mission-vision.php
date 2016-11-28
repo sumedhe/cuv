@@ -12,22 +12,27 @@
     <br>
         <div class="the-headline">
             <h1>
-                Vision
+              Our Mission
             </h1>
         </div>
         <div class="lead">
             <p>
-                " about our vision.. blalalalalalalallalaaallalalalallallalllalalalalalalalaa"
+                <b>Colombo University Volunteers</b> are aiming at social integrating and supporting psycho-social work among
+                university community and support sustainable social development activities of outside community through
+                knowledge based volunteerism.
             </p>
         </div>
         <div class="the-headline">
             <h1>
-                Mission
+                Our Vision
             </h1>
         </div>
         <div class="lead">
             <p>
-                " about our mission.. blalalalalalalallalaaallalalalallallalllalalalalalalalaa"
+                <i>
+                  <b>'Mobilizing knowledge based volunteers of University of Colombo and supporting needy university and outside
+                community'</b>
+                </i>
             </p>
         </div>
     </div>
