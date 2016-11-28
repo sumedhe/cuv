@@ -11,13 +11,13 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="public/img/test.jpg" alt="1" width="100%" height="100%">
+        <img src="public/img/banner1.jpg" alt="1" width="100%" height="100%">
       </div>
       <div class="item">
-        <img src="public/img/test.jpg" alt="2" width="100%" height="100%">
+        <img src="public/img/banner2.jpg" alt="2" width="100%" height="100%">
       </div>
       <div class="item">
-        <img src="public/img/test.jpg" alt="3" width="100%" height="100%">
+        <img src="public/img/banner3.jpg" alt="3" width="100%" height="100%">
       </div>
 
     </div>
@@ -37,6 +37,7 @@
   <!-- Title -->
   <div class="main-text text-center">
       <h1>Colombo University Volunteers</h1>
+      <h3><i> ~ Knowledge Volunteerism ~ </i></h3>
   </div>
 
 </div>
