@@ -1,56 +1,37 @@
-<<<<<<< HEAD
-<br>
-<br>
-<div id="contact-us" class="container-fluid bg-grey text-center">
-    <div class="container">
-        <div id="contact-information" class="container-fluid text-center">
-            <h2>Contact information</h2>
-        </div>
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="row">
-                    <span class="met_color glyphicon glyphicon-tag"></span>
-                    HotLine : +94 xxx xxxxxxx
-                </div>
-                <br>
-                <div class="row">
-                    <span class="met_color glyphicon glyphicon-envelope"></span>
-                    E-Mail : xxxx.cuv@gmail.com
-                </div>
-=======
 <br><br>
-<div id="contact-us" class="container-fluid bg-grey center">
-        <h2 class="text-center">Contact Us</h2>
+<div id="contact-us" class="container-fluid center">
+        <h2 class="text-center">CONTACT US</h2>
         <br>
         <div class="row slideanim">
+            <br>
             <div class="col-lg-1"></div>
             <div class="col-lg-4">
-                <br><br><br><br>
                 <table class="table table-condensed table-hover ">
                     <tbody>
                         <tr>
-                            <td><span class="met_color glyphicon glyphicon-earphone"></span></td>
-                            <td style="font-weight: bold">+94 xxx xxxxxxx</td>
-                        </tr>
-                        <tr>
                             <td><span class="met_color glyphicon glyphicon-envelope"></span></td>
-                            <td style="font-weight: bold">admin.cuv@gmail.com</td>
+                            <td style="font-weight: bold">admin@cuv.cmb.ac.lk</td>
                         </tr>
                         <tr>
                             <td><span class="met_color glyphicon glyphicon-phone"></span></td>
-                            <td style="font-weight: bold">+94 711 303 303</td>
+                            <td style="font-weight: bold">(+94) 11 2 583 108</td>
+                        </tr>
+                        <tr>
+                            <td><span class="met_color glyphicon glyphicon-phone"></span></td>
+                            <td style="font-weight: bold">(+94) 701 122 311</td>
                         </tr>
                         <tr>
                             <td><span class="met_color glyphicon glyphicon-map-marker"></span></td>
-                            <td style="font-weight: bold">University of Colombo, Colombo 7</td>
+                            <td style="font-weight: bold">Student counselors’ Office<br>University of Colombo</td>
                         </tr>
                     </tbody>
                 </table>
->>>>>>> 5a7d0865a77ba1d156f3ce1b989907cd6a12e717
+
             </div>
 
-            <div id="fb-page" class="col-lg-7">
-                <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Funiversity.colombo%2F&tabs=timeline&width=1000&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=562525020600615" width=100% height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+            <div class="col-lg-1"></div>
+            <div id="fb-page" class="col-lg-6 container center">
+                <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Funiversity.colombo%2F&tabs=timeline&width=1000&height=215&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=562525020600615" width=100% height="215" style="border:none;overflow:hidden" scrolling="no" frameborder="1" allowTransparency="true"></iframe>
             </div>
 
             <div id="cuv-map" class="container center">
