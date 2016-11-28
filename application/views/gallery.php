@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-=======
-<style type="text/css">
+<!-- /*<style type="text/css">
 #container {
   width: 840px;
   margin: 0 auto;
@@ -38,20 +36,88 @@
 }
 </style>
 
->>>>>>> 39fde7f95b96d8295bfd45097fb3eaf3ff8265f8
 <div id="gallery" class="container-fluid bg-grey gallery">
     <div class="container row center">
         <div class="col-lg-12 text-center">
             <h2>GALLERY</h2>
             <h4>Our works</h4>
         </div>
-<div id="container">
-  <ul>
-    <li><img src="public/img/test.jpg"></li>
-    <li><img src="public/img/test.jpg"></li>
-    <li><img src="public/img/test.jpg"></li>
-    <li><img src="public/img/test.jpg"></li>
-  </ul>
+        <div id="container">
+          <ul>
+            <li><img src="public/img/test.jpg"></li>
+            <li><img src="public/img/test.jpg"></li>
+            <li><img src="public/img/test.jpg"></li>
+            <li><img src="public/img/test.jpg"></li>
+          </ul>
+        </div>
+    </div>
+</div>*/ -->
+
+
+
+<!-- TEMPORARY -->
+
+<div id="gallery" class="container-fluid bg-grey gallery">
+    <div class="col-lg-12 text-center">
+        <h2>Gallery</h2>
+        <!-- <h4>Our works</h4> -->
+    </div>
+    <br><br>
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+
+           <div class = "col-sm-6 col-md-3">
+              <a href = "#" class = "thumbnail">
+                 <img src = "public/img/gallery/meeting01.jpg" alt = "Generic placeholder thumbnail">
+              </a>
+           </div>
+
+           <div class = "col-sm-6 col-md-3">
+              <a href = "#" class = "thumbnail">
+                 <img src = "public/img/gallery/meeting02.jpg" alt = "Generic placeholder thumbnail">
+              </a>
+           </div>
+
+           <div class = "col-sm-6 col-md-3">
+              <a href = "#" class = "thumbnail">
+                 <img src = "public/img/gallery/meeting03.jpg" alt = "Generic placeholder thumbnail">
+              </a>
+           </div>
+
+           <div class = "col-sm-6 col-md-3">
+              <a href = "#" class = "thumbnail">
+                 <img src = "public/img/gallery/meeting04.jpg" alt = "Generic placeholder thumbnail">
+              </a>
+           </div>
+
+           <div class = "col-sm-6 col-md-3">
+              <a href = "#" class = "thumbnail">
+                 <img src = "public/img/gallery/meeting05.jpg" alt = "Generic placeholder thumbnail">
+              </a>
+           </div>
+
+           <div class = "col-sm-6 col-md-3">
+              <a href = "#" class = "thumbnail">
+                 <img src = "public/img/gallery/meeting06.jpg" alt = "Generic placeholder thumbnail">
+              </a>
+           </div>
+
+           <div class = "col-sm-6 col-md-3">
+              <a href = "#" class = "thumbnail">
+                 <img src = "public/img/gallery/meeting07.jpg" alt = "Generic placeholder thumbnail">
+              </a>
+           </div>
+
+           <div class = "col-sm-6 col-md-3">
+              <a href = "#" class = "thumbnail">
+                 <img src = "public/img/gallery/meeting08.jpg" alt = "Generic placeholder thumbnail">
+              </a>
+           </div>
+
+       </div>
+
+   <div class="col-sm-1"></div>
 </div>
-</div>
-</div>
+
+</body>
+</html>
