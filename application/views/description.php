@@ -7,7 +7,7 @@
       <br>
       <br>
       <h2 class="section-heading">
-        Description
+        About Us
       </h2>
       <p class="lead">
         Our aims to establish an all faculty volunteer group network that focuses

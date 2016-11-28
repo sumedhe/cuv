@@ -59,7 +59,7 @@
 
 <div id="gallery" class="container-fluid bg-grey gallery">
     <div class="col-lg-12 text-center">
-        <h2>Gallery</h2>
+        <h2>GALLERY</h2>
         <!-- <h4>Our works</h4> -->
     </div>
     <br><br>

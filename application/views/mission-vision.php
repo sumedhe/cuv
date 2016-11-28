@@ -11,9 +11,9 @@
     <br>
     <br>
         <div class="the-headline">
-            <h1>
+            <h2>
               Our Mission
-            </h1>
+          </h2>
         </div>
         <div class="lead">
             <p>
@@ -23,9 +23,9 @@
             </p>
         </div>
         <div class="the-headline">
-            <h1>
+            <h2>
                 Our Vision
-            </h1>
+            </h2>
         </div>
         <div class="lead">
             <p>
